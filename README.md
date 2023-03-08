@@ -1,2 +1,2 @@
 # dm_master
-Demo master
+Demo Model
